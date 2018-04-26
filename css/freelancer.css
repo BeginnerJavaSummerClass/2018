@@ -378,3 +378,11 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+iframe {
+    width: 396vw;
+    height: 3200px;
+    border: 0;
+    transform: scale(0.25);
+    transform-origin: 0 0;
+}
